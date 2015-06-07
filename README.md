@@ -1,7 +1,6 @@
 # projectDNA
 Find common motif from DNA patterns
-This folder contains the complete work to search pattern (Motif in biological terms) from DNA, done as a final year 
-B.tech project in 2009.
+This folder contains the complete work to search pattern (Motif in biological terms) from DNA.
 
 ## Algorithms
 Two main algorithms used:
